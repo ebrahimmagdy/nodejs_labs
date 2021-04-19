@@ -1,0 +1,19 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "db-migrate": "^0.11.12",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.4",
+    "nodemon": "^2.0.7"
+  }
+}
